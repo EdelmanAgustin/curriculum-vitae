@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Itim&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cbdad5 ;
+}
+
+.box-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 400px;
+}
+
+.navleft {
+    background-color: #013750;
+    color: white;
+    box-shadow:  black;
+    padding: 50px;
+}
+
+.navright {
+    background-color: white;
+    padding: 50px;
+    }
+
+.navleft .contact {
+    margin-top: 50px;
+}
+.navleft .leng {
+    margin-top: 50px;
+}
+
+.navleft .foto h1 {
+    font-family: "Fjalla One", sans-serif;
+}
+
+
+.navleft .foto img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+
+.navright .navright-item h2 {
+    margin-top: 60px;
+    background-color: #BECBD7;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.navright .navright-item h1 {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
