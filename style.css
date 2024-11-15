@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 200px 400px;
+    margin: 20px 400px;
 }
 
 .navleft {
@@ -18,11 +18,13 @@ body {
     color: white;
     box-shadow:  black;
     padding: 50px;
+    height: 60em;
 }
 
 .navright {
     background-color: white;
     padding: 50px;
+    height: 60em;
     }
 
 .navleft .contact {
